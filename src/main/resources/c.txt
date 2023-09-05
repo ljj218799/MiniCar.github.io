@@ -1,0 +1,5 @@
+siduction 2022.1 Linux 发行版共有 KDE Plasma 5.26.4、Xfce 4.18 和 LXQt 1.2 三张桌面环境，感兴趣的用户可以根据自己的需求进行下载。
+
+在官方支持文档中写道：“了解我们的人都知道我们曾经习惯使用摇滚歌曲来命名版本，而现在我们将回归这种方式。siduction 2022.1 Linux 则追溯到鲍勃・迪伦（Bob Dylan）在 1962 年推出的的一首同名歌曲”。
+
+IT之家了解到，siduction 2022.1 Linux 发行版的新功能包括为基于 Debian 的 apt 软件包管理器启用 Nala 前端，使用 Btrfs 文件系统安装 siduction 时用于处理系统快照的 Snapper 工具，以及 live image 中的 chroot-helper 工具，使你在系统出现故障时更容易 chroot 到现有的 siduction 安装。
